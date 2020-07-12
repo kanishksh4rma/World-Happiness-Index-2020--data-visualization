@@ -1,5 +1,19 @@
 # World-Happiness-Index-2020--data-visualization
+---
+
+
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=102)](https://github.com/kanishksh4rma/Cancer-Prediction-in-Early-stages) [![Code Climate](https://codeclimate.com/github/boennemann/badges.svg)](https://github.com/kanishksh4rma/Cancer-Prediction-in-Early-stages)
+
 A data science project to perform Data Visualization on World Happiness Index 2020. 
+
+
+### Libraries used : 
+```
+  * pandas
+  * numpy
+  * matplotlib
+  * seaborn
+```
 
 # screenshots
 
@@ -24,3 +38,9 @@ A data science project to perform Data Visualization on World Happiness Index 20
 ![Screenshot 10](/screenshots/ss10.png)
 
 ![Screenshot 11](/screenshots/ss11.png)
+
+---
+
+> Developed by : [Kanishk sharma]('github.com/kanishksh4rma')
+  
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/kanishksh4rma/World-Happiness-Index-2020--data-visualization)
