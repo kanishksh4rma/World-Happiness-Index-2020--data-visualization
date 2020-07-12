@@ -49,8 +49,6 @@ git clone https://github.com/kanishksh4rma/World-Happiness-Index-2020--data-visu
 
 ![Screenshot 4](/screenshots/ss4.png)
 
-![Screenshot 5](/screenshots/ss5.png)
-
 ![Screenshot 6](/screenshots/ss6.png)
 
 ![Screenshot 7](/screenshots/ss7.png)
