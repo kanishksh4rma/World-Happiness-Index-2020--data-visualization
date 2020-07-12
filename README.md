@@ -14,8 +14,8 @@
 
 ```
 pip install pandas numpy seaborn
-git clone https://github.com/kanishksh4rma/World-Happiness-Index-2020--data-visualization.git
 
+git clone https://github.com/kanishksh4rma/World-Happiness-Index-2020--data-visualization.git
 ```
 
 ![demo_install](/screenshots/demo_install.png)
