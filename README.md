@@ -29,8 +29,9 @@ git clone https://github.com/kanishksh4rma/World-Happiness-Index-2020--data-visu
   * matplotlib
   * seaborn
 ```
+---
 
-## screenshots
+## Screenshots
 
 ![Screenshot 1](/screenshots/ss1.png)
 
