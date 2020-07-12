@@ -1,11 +1,13 @@
-# World-Happiness-Index-2020--data-visualization
+## World-Happiness-Index-2020--data-visualization
 
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=102)](https://github.com/kanishksh4rma/Cancer-Prediction-in-Early-stages) [![Code Climate](https://codeclimate.com/github/boennemann/badges.svg)](https://github.com/kanishksh4rma/Cancer-Prediction-in-Early-stages)
 
 ---
 
-A data science project to perform Data Visualization on World Happiness Index 2020. 
+## A data science project to perform Data Visualization on World Happiness Index 2020. 
 
+### Objective
+> ### The World Happiness Report is an annual publication of the United Nations Sustainable Development Solutions Network. It contains articles, and rankings of national happiness based on respondent ratings of their own lives, which the report also correlates with various life factors.As of March 2020, Finland was ranked the happiest country in the world three times in a row.
 
 ### Libraries used : 
 ```
