@@ -13,6 +13,8 @@
 > * Perform Data Visualization for better/deep understanding of Stats.
 > * To compare the stats between various Countries.
 
+---
+
 ## **Installation**
 
 ### Copy and Run this in terminal: 
@@ -64,5 +66,6 @@ git clone https://github.com/kanishksh4rma/World-Happiness-Index-2020--data-visu
 ---
 
 > Developed by : [Kanishk sharma]('github.com/kanishksh4rma')
+  
   
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/kanishksh4rma/World-Happiness-Index-2020--data-visualization)
