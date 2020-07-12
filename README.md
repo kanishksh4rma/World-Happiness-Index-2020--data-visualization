@@ -1,8 +1,8 @@
 # World-Happiness-Index-2020--data-visualization
----
-
 
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=102)](https://github.com/kanishksh4rma/Cancer-Prediction-in-Early-stages) [![Code Climate](https://codeclimate.com/github/boennemann/badges.svg)](https://github.com/kanishksh4rma/Cancer-Prediction-in-Early-stages)
+
+---
 
 A data science project to perform Data Visualization on World Happiness Index 2020. 
 
